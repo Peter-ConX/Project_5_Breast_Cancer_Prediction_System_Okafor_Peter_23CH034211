@@ -2,5 +2,5 @@ Name: Okafor Peter
 Matric Number: 23CH034211
 Machine Learning Algorithm Used: Logistic Regression
 Model Persistence Method: Pickle
-Live URL: https://your-deployed-link
+Live URL: https://project-5-breast-cancer-prediction.onrender.com
 GitHub Repository: https://github.com/Peter-ConX/Project_5_Breast_Cancer_Prediction_System_Okafor_Peter_23CH034211.git

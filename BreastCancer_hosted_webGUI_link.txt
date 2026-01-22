@@ -3,4 +3,4 @@ Matric Number: 23CH034211
 Machine Learning Algorithm Used: Logistic Regression
 Model Persistence Method: Pickle
 Live URL: https://your-deployed-link
-GitHub Repository: https://github.com/your-repo-link
+GitHub Repository: https://github.com/Peter-ConX/Project_5_Breast_Cancer_Prediction_System_Okafor_Peter_23CH034211.git

@@ -1,0 +1,6 @@
+Name: Okafor Peter
+Matric Number: 23CH034211
+Machine Learning Algorithm Used: Logistic Regression
+Model Persistence Method: Pickle
+Live URL: https://your-deployed-link
+GitHub Repository: https://github.com/your-repo-link
